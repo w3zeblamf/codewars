@@ -7,9 +7,7 @@ like preventing you from using undeclared variables. (https://www.w3schools.com/
 //*==============================================
 
 /* Details:
-
 We need a function that can transform a number into a string.
-
 What ways of achieving this do you know?
 
 Examples:
@@ -23,7 +21,7 @@ function numberToString(num) {
 }
 
 console.log(numberToString(123)); // '123'
-console.log(typeof(numberToString(123))); // '123'
+console.log(typeof(numberToString(123))); // string
 
 //Other solutions
 
