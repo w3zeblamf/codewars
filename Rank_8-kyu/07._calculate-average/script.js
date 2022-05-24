@@ -43,8 +43,6 @@ console.log(find_average([]));
 
 //MDN Web Docs reference:
 //=======================
-
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration
-
 //https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
 
