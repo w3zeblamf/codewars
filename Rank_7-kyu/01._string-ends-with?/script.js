@@ -26,11 +26,6 @@ console.log(solution('abc', 'bc')); // returns true
 console.log(solution('abc', 'd')); // returns false
 
 
-//Other Solutions
-//===============
-
-
-
 
 //MDN Web Docs reference:
 //=======================
