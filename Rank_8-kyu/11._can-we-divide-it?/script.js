@@ -10,8 +10,8 @@ like preventing you from using undeclared variables. (https://www.w3schools.com/
 Your task is to create the function isDivideBy (or is_divide_by) to check if an integer number is divisible by both integers a and b.
 
 A few cases: 
-(45, 1, 6)    ->  false
-(45, 5, 15)   ->  true
+(45, 1, 6)   ->  false
+(45, 5, 15)  ->  true
 */
 
 //Solution 1 (My Solution):
