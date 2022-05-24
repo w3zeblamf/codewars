@@ -20,3 +20,4 @@ Solved Kata list:
 - 04.- Even or Odd ==> https://www.codewars.com/kata/53da3dbb4a5168369a0000fe
 - 05.- Convert a String to a Number! ==> https://www.codewars.com/kata/544675c6f971f7399a000e79
 - 06.- Sum of positive ==> https://www.codewars.com/kata/5715eaedb436cf5606000381
+- 07.- Calculate average ==> https://www.codewars.com/kata/57a2013acf1fa5bfc4000921
