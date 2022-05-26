@@ -28,3 +28,4 @@ Solved Kata list:
 - 10.- Will you make it? ==> https://www.codewars.com/kata/5861d28f124b35723e00005e
 - 11.- Can we divide it? ==> https://www.codewars.com/kata/5a2b703dc5e2845c0900005a
 - 12.- Century From Year ==> https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
+- 13.- Convert boolean values to strings 'Yes' or 'No' ==> https://www.codewars.com/kata/53369039d7ab3ac506000467
