@@ -11,6 +11,7 @@
 Solved Kata list: 
 
 - 01.- String ends with? ==> https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
+- 02.- Find the next perfect square! ==> https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 
 ### 8 kyu
 
