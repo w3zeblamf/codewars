@@ -31,3 +31,5 @@ Solved Kata list:
 - 12.- Century From Year ==> https://www.codewars.com/kata/5a3fe3dde1ce0e8ed6000097
 - 13.- Convert boolean values to strings 'Yes' or 'No' ==> https://www.codewars.com/kata/53369039d7ab3ac506000467
 - 14.- Beginner Series #1 School Paperwork ==> https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/solutions/javascript
+- 15.- Keep Hydrated! ==> https://www.codewars.com/kata/582cb0224e56e068d800003c
+- 16.- Square(n) Sum ==> https://www.codewars.com/kata/515e271a311df0350d00000f
