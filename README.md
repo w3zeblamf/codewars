@@ -34,3 +34,5 @@ Solved Kata list:
 - 14.- Beginner Series #1 School Paperwork ==> https://www.codewars.com/kata/55f9b48403f6b87a7c0000bd/solutions/javascript
 - 15.- Keep Hydrated! ==> https://www.codewars.com/kata/582cb0224e56e068d800003c
 - 16.- Square(n) Sum ==> https://www.codewars.com/kata/515e271a311df0350d00000f
+- 17.- String repeat ==> https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
+- 18.- Sum Arrays ==> https://www.codewars.com/kata/53dc54212259ed3d4f00071c
