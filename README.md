@@ -36,3 +36,4 @@ Solved Kata list:
 - 16.- Square(n) Sum ==> https://www.codewars.com/kata/515e271a311df0350d00000f
 - 17.- String repeat ==> https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 - 18.- Sum Arrays ==> https://www.codewars.com/kata/53dc54212259ed3d4f00071c
+- 19.- Remove String Spaces ==> https://www.codewars.com/kata/57eae20f5500ad98e50002c5
