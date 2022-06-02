@@ -37,3 +37,4 @@ Solved Kata list:
 - 17.- String repeat ==> https://www.codewars.com/kata/57a0e5c372292dd76d000d7e
 - 18.- Sum Arrays ==> https://www.codewars.com/kata/53dc54212259ed3d4f00071c
 - 19.- Remove String Spaces ==> https://www.codewars.com/kata/57eae20f5500ad98e50002c5
+- 20.- Total amount of points ==> https://www.codewars.com/kata/5bb904724c47249b10000131
