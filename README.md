@@ -13,6 +13,7 @@ Solved Kata list:
 - 01.- String ends with? ==> https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
 - 02.- Find the next perfect square! ==> https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 - 03.- Beginner Series #3 Sum of Numbers ==> https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
+- 04.- Binary Addition ==> https://www.codewars.com/kata/551f37452ff852b7bd000139
 
 ### 8 kyu
 
@@ -38,3 +39,4 @@ Solved Kata list:
 - 18.- Sum Arrays ==> https://www.codewars.com/kata/53dc54212259ed3d4f00071c
 - 19.- Remove String Spaces ==> https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 - 20.- Total amount of points ==> https://www.codewars.com/kata/5bb904724c47249b10000131
+- 21.- Sum without highest and lowest number ==> https://www.codewars.com/kata/576b93db1129fcf2200001e6
