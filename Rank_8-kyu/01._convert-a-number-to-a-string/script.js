@@ -15,6 +15,7 @@ Examples:
 999 --> "999" */
 
 //Solution 1: (My Solution)
+//=========================
 
 function numberToString(num) {
   return num.toString() // 123.toString() = '123'
@@ -23,9 +24,11 @@ function numberToString(num) {
 console.log(numberToString(123)); // '123'
 console.log(typeof(numberToString(123))); // string
 
+
 //Other solutions
 
 //Solution 2:
+//============
 
 // function numberToString2(num) {
 //   return `${num}`;
@@ -45,3 +48,8 @@ console.log(typeof(numberToString(123))); // string
 // }
 
 // console.log(numberToString3(625)); // '625
+
+
+//MDN Web Docs reference:
+//=======================
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
