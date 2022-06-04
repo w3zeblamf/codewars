@@ -14,6 +14,7 @@ Solved Kata list:
 - 02.- Find the next perfect square! ==> https://www.codewars.com/kata/56269eb78ad2e4ced1000013
 - 03.- Beginner Series #3 Sum of Numbers ==> https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
 - 04.- Binary Addition ==> https://www.codewars.com/kata/551f37452ff852b7bd000139
+- 05.- Reverse words ==> https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
 
 ### 8 kyu
 
