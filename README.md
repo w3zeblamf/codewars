@@ -41,3 +41,6 @@ Solved Kata list:
 - 19.- Remove String Spaces ==> https://www.codewars.com/kata/57eae20f5500ad98e50002c5
 - 20.- Total amount of points ==> https://www.codewars.com/kata/5bb904724c47249b10000131
 - 21.- Sum without highest and lowest number ==> https://www.codewars.com/kata/576b93db1129fcf2200001e6
+- 22.- Calculate BMI == > https://www.codewars.com/kata/57a429e253ba3381850000fb
+
+//TODO:- .- L1: Set Alarm == > https://www.codewars.com/kata/568dcc3c7f12767a62000038/javascript
