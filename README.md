@@ -43,6 +43,7 @@ Solved Kata list:
 - 21.- Sum without highest and lowest number ==> https://www.codewars.com/kata/576b93db1129fcf2200001e6
 - 22.- Calculate BMI == > https://www.codewars.com/kata/57a429e253ba3381850000fb
 - 23.- DNA to RNA Conversion ==> https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/javascript/me/best_practice
+- 24.- Grasshopper - Grade book ==> https://www.codewars.com/kata/55cbd4ba903825f7970000f5/javascript
 
 
 //TODO:- .- L1: Set Alarm == > https://www.codewars.com/kata/568dcc3c7f12767a62000038/javascript
