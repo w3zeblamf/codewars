@@ -44,4 +44,4 @@ Solved Kata list:
 - 22.- Calculate BMI == > https://www.codewars.com/kata/57a429e253ba3381850000fb
 - 23.- DNA to RNA Conversion ==> https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/javascript/me/best_practice
 - 24.- Grasshopper - Grade book ==> https://www.codewars.com/kata/55cbd4ba903825f7970000f5/javascript
-
+- 25.- Sum Mixed Array ==> https://www.codewars.com/kata/57eaeb9578748ff92a000009
