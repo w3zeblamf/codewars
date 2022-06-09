@@ -15,6 +15,8 @@ Solved Kata list:
 - 03.- Beginner Series #3 Sum of Numbers ==> https://www.codewars.com/kata/55f2b110f61eb01779000053/solutions/javascript
 - 04.- Binary Addition ==> https://www.codewars.com/kata/551f37452ff852b7bd000139
 - 05.- Reverse words ==> https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
+- 06.- Find the stray number ==> https://www.codewars.com/kata/57f609022f4d534f05000024/javascript
+
 
 ### 8 kyu
 
