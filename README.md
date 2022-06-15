@@ -16,6 +16,7 @@ Solved Kata list:
 - 04.- Binary Addition ==> https://www.codewars.com/kata/551f37452ff852b7bd000139
 - 05.- Reverse words ==> https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
 - 06.- Find the stray number ==> https://www.codewars.com/kata/57f609022f4d534f05000024/javascript
+- 07.- Square Every Digit ==> https://www.codewars.com/kata/546e2562b03326a88e000020/javascript
 
 
 ### 8 kyu
