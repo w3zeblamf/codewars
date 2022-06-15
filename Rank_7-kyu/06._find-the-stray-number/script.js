@@ -26,6 +26,8 @@ function stray(numbers) {
   return arrOrder[0] !== arrOrder[1]
     ? arrOrder[0]
     : arrOrder[arrOrder.length - 1];
+    //: arrOrder.at(-1);
+    //  arrOrder.at(-1) = is an elegant way to access the last item in an array.
 }
 
 console.log(stray([1, 1, 1, 1, 2])); // 2
@@ -50,5 +52,6 @@ console.log(stray([17, 17, 3, 17, 17, 17, 17])); // 3
 
 //MDN Web Docs reference:
 //=======================
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/at
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 //https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
