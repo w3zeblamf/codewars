@@ -55,3 +55,9 @@ console.log(squareDigits(2112)); // 4114
 //MDN Web Docs reference:
 //=======================
 
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+
