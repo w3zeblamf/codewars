@@ -1,4 +1,4 @@
-# Codewars kata solutions
+# Codewars Kata Challenge Solutions
 
 ### Language
 
