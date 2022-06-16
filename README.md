@@ -1,8 +1,20 @@
-# My codewars kata solutions
+# Codewars kata solutions
 
-## Language
+### Language
 
 - JavaScript
+
+<p style= "align:center">
+  <img src="https://www.codewars.com/users/w3zeblamf/badges/large" width="100%" height="100%" title="My Codewars Profile Badges " alt="My Codewars Profile Badges">
+</p>
+
+<p style= "align:center">
+  <img src="https://www.codewars.com/users/w3zeblamf/badges/small" width="100%" height="100%" title="My Codewars Profile Badges " alt="My Codewars Profile Badges">
+</p>
+
+<p style= "align:center">
+  <img src="https://www.codewars.com/users/w3zeblamf/badges/micro" width="100%" height="100%" title="My Codewars Profile Badges " alt="My Codewars Profile Badges">
+</p>
 
 ## Ranks
 
@@ -17,6 +29,7 @@ Solved Kata list:
 - 05.- Reverse words ==> https://www.codewars.com/kata/5259b20d6021e9e14c0010d4
 - 06.- Find the stray number ==> https://www.codewars.com/kata/57f609022f4d534f05000024/javascript
 - 07.- Square Every Digit ==> https://www.codewars.com/kata/546e2562b03326a88e000020/javascript
+- 08.- Disemvowel Trolls ==> https://www.codewars.com/kata/52fba66badcd10859f00097e
 
 
 ### 8 kyu
