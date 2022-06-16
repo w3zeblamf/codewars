@@ -5,7 +5,7 @@
 - JavaScript
 
 <p style= "align:center">
-  <img src="https://www.codewars.com/users/w3zeblamf/badges/small" width="50%" height="50%" title="My Codewars Profile Badges " alt="My Codewars Profile Badges">
+  <img src="https://www.codewars.com/users/w3zeblamf/badges/large" width="50%" height="50%" title="My Codewars Profile Badges " alt="My Codewars Profile Badges">
 </p>
 
 ## Ranks
