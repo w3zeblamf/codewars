@@ -22,6 +22,7 @@ Solved Kata list:
 - 06.- Find the stray number ==> https://www.codewars.com/kata/57f609022f4d534f05000024/javascript
 - 07.- Square Every Digit ==> https://www.codewars.com/kata/546e2562b03326a88e000020/javascript
 - 08.- Disemvowel Trolls ==> https://www.codewars.com/kata/52fba66badcd10859f00097e
+- 09.- Vowel Count ==> https://www.codewars.com/kata/54ff3102c1bad923760001f3/javascript
 
 
 ### 8 kyu
