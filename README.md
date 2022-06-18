@@ -23,6 +23,7 @@ Solved Kata list:
 - 07.- Square Every Digit ==> https://www.codewars.com/kata/546e2562b03326a88e000020/javascript
 - 08.- Disemvowel Trolls ==> https://www.codewars.com/kata/52fba66badcd10859f00097e
 - 09.- Vowel Count ==> https://www.codewars.com/kata/54ff3102c1bad923760001f3/javascript
+- 10.- Remove the minimum ==> https://www.codewars.com/kata/563cf89eb4747c5fb100001b
 
 
 ### 8 kyu
@@ -54,3 +55,4 @@ Solved Kata list:
 - 23.- DNA to RNA Conversion ==> https://www.codewars.com/kata/5556282156230d0e5e000089/solutions/javascript/me/best_practice
 - 24.- Grasshopper - Grade book ==> https://www.codewars.com/kata/55cbd4ba903825f7970000f5/javascript
 - 25.- Sum Mixed Array ==> https://www.codewars.com/kata/57eaeb9578748ff92a000009
+- 26.- Return Negative ==> https://www.codewars.com/kata/55685cd7ad70877c23000102/javascript
