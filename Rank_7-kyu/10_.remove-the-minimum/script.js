@@ -3,7 +3,7 @@ You can use strict mode in all your programs. It helps you to write cleaner code
 like preventing you from using undeclared variables. (https://www.w3schools.com/js/js_strict.asp) */
 'use strict';
 
-//**Kata training 11: Remove the minimum
+//**Kata training 10: Remove the minimum
 //*====================================================
 
 /* 
