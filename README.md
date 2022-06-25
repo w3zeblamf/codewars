@@ -25,6 +25,7 @@ Solved Kata list:
 - 09.- Vowel Count ==> https://www.codewars.com/kata/54ff3102c1bad923760001f3/javascript
 - 10.- Remove the minimum ==> https://www.codewars.com/kata/563cf89eb4747c5fb100001b
 - 11.- Testing 1-2-3 ==> https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/javascript
+- 12.- Descending Order ==> https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 
 
 ### 8 kyu
