@@ -58,3 +58,7 @@ Solved Kata list:
 - 24.- Grasshopper - Grade book ==> https://www.codewars.com/kata/55cbd4ba903825f7970000f5/javascript
 - 25.- Sum Mixed Array ==> https://www.codewars.com/kata/57eaeb9578748ff92a000009
 - 26.- Return Negative ==> https://www.codewars.com/kata/55685cd7ad70877c23000102/javascript
+
+
+//TODO : Delete occurrences of an element if it occurs more than n times ==> https://www.codewars.com/kata/554ca54ffa7d91b236000023
+
